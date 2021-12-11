@@ -1,5 +1,7 @@
 # Weekend Countdown
 
+## Result-Link: https://mkisecok.github.io/weekend-count-down-JS/
+
 1. Create a mini app that takes in a users name and returns the following;
 
     - A greeting with the users name.
